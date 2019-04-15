@@ -1,0 +1,30 @@
+<Personas>
+  <Persona>
+    <id>1</id>
+    <nombre>John</nombre>
+    <email>mail@mail.com</email>
+  </Persona>
+  <Persona>
+    <id>2</id>
+    <nombre>Matilde</nombre>
+    <email>Vignon</email>
+  </Persona>
+  <Persona>
+    <id>3</id>
+    <nombre>Jorge</nombre>
+    <email>Carrazco</email>
+  </Persona>
+  <Persona>
+    <id>4</id>
+    <nombre>Martha</nombre>
+    <email>Vignon</email>
+  </Persona>
+  <Persona>
+    <id>
+    </id>
+    <nombre>
+    </nombre>
+    <email>
+    </email>
+  </Persona>
+</Personas>
